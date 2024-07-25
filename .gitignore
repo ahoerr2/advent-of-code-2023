@@ -1,0 +1,6 @@
+# Cmake Directories
+build
+out
+
+# Vscode
+.vscode
